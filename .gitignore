@@ -1,0 +1,5 @@
+.vs
+*.filters
+*.vcxproj.filters
+*.local
+*.user
